@@ -29,7 +29,55 @@ Main focus area:
 
 **2. Exploratory Data Analysis:**
   - Derive extra features such as pack size and brand name from the data and define metrics of interest to enable you to draw insights on who spends on chips and what drives spends for each customer segment.
+-----------------------------------------
+Transaction data
+- Sales are increasing in the lead up to christmas, but there are no sales on christmas day itself as the shops are closed.
 
+- Kettle is the brand with the most chips sold
+
+- 170g is the pack size with most chips sold
+
+Purchase Behaviour
+- Top 3 segments (Lifestages + customer segment) with the most sales are:
+
+- Old Family / Budget Customer
+
+- Young singles/couples / Mainstream Customer
+
+- Retirees / Mainstream Customer
+
+- Frequency of purchase is high for all top 3 segments
+
+- Older Family/Budget segment has low unique cutomers but the total sale per customer is high leading to overall highest total sale
+
+- In Young singles/couple Mainstream and Retirees/Mainstream segment, the number of unique customer is high but the total sales per customer is low, leading to overall high total sales.
+
+- The top brand sold in all 3 segments is Kettle.
+
+- Top pack size sold in all 3 segments is 175g.
+
+Recommendations
+
+- Older Families
+(Focus : Budget Customers)
+
+- As the frequency of purchase and the sales per customer is high in this segment, to increase sales we can promotion that encourages the customers to buy even more chips per visit.
+
+- For Mainstream and Premium customers, as the sales per customer is almost same as budget segment but the frequency of customers is less. To increase more frequent visits, discounts can be offered on the top brand and pack size in these segments to increase sales.
+
+- As the overall number of unique buyers are less in Older families, to retain customers that keep buying, a loyalty program can be started that benefits the buyers.
+
+- Young singles/couples
+(Focus : Mainstream Customers)
+
+- The frequency of purchase and the unique number of buyers are high, but the sales per customer is low. To increase this, discounts and be promoted on top brands and pack size to increase sales.
+
+- Retirees
+(Focus : Mainstream Customers)
+
+- The frequency of purchase and the unique number of buyers are high, but the sales per customer is low. Again to increase this, discounts and be promoted on top brands and pack size to increase sales.
+Others
+- Kettle is the brand and 170g is the pack size with most sales, so promotion and discounts can be offered on these to increase sales.
    
 
 -----------------------------
